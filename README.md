@@ -7,19 +7,17 @@
 
 ### 👤 About Me
 
-<img src="https://imgs.search.brave.com/Wxyyt-FBAMRkOprveNoox4uqcEah4jkHNtu7mPzyoRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly82NC5t/ZWRpYS50dW1ibHIu/Y29tL2JhMzIwYjZi/YjBjOTdhZjRmYjhi/OTY5MDgwZmJjY2Y5/L2IyZTZkOThmMjA4/OTU5ZTItNzgvczU0/MHg4MTAvZjNkZjRj/MmVmZjY2Nzg3YzBj/NzlmMjU1NDE4ZDFm/N2ZhMWYxZmM1ZS5n/aWZ2" width="350" align="right">
+<div>
+  <img src="https://imgs.search.brave.com/Wxyyt-FBAMRkOprveNoox4uqcEah4jkHNtu7mPzyoRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly82NC5t/ZWRpYS50dW1ibHIu/Y29tL2JhMzIwYjZi/YjBjOTdhZjRmYjhi/OTY5MDgwZmJjY2Y5/L2IyZTZkOThmMjA4/OTU5ZTItNzgvczU0/MHg4MTAvZjNkZjRj/MmVmZjY2Nzg3YzBj/NzlmMjU1NDE4ZDFm/N2ZhMWYxZmM1ZS5n/aWZ2" width="350" align="right" alt="Victini">
 
-<div align="justify">
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=00FF00&background=F29FFF00&width=500&height=30&lines=Hi!+Welcome+to+my+profile+%E2%AD%90;I'm+always+trying+to+learn+new+stuff;Technology+and+Art+are+my+passions%F0%9F%8E%A8)](https://git.io/typing-svg)
-
-  <br>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=00FF00&background=F29FFF00&width=500&height=30&lines=Hi!+Welcome+to+my+profile+%E2%AD%90;I'm+always+trying+to+learn+new+stuff;Technology+and+Art+are+my+passions%F0%9F%8E%A8" alt="Typing SVG" />
+  </a>
+  <br><br>
   
-<p>💡 Blending technology and cultural experiences to create awesome digital experiences</p>
-<p>🎓 Navigating through my Software Engineering degree at UFAM</p>
-<p>🚀 Goal: Master mobile development and become a top-tier engineer</p>
-
-
+  <p>💡 Blending technology and cultural imersion to create awesome digital experiences</p>
+  <p>🎓 Navigating Off the beaten path to achieve my holy grail </p>
+  <p>🚀 Goal: Master mobile and web development to become a top-tier engineer</p>
 </div>
 
 <br clear="both">
@@ -55,7 +53,20 @@
 
 ---
 
+### 📫 Let's Connect!
 
+<div align="center">
+  <a href="mailto:antoniolucasrodrigues376@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/antonio-lucas-rodrigues">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+---
+
+<br>
 
 <div align="center">
   <picture>
