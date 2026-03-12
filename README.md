@@ -7,14 +7,25 @@
 
 ### 👤 About Me
 
-<img align="right" src="https://imgs.search.brave.com/Wxyyt-FBAMRkOprveNoox4uqcEah4jkHNtu7mPzyoRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly82NC5t/ZWRpYS50dW1ibHIu/Y29tL2JhMzIwYjZi/YjBjOTdhZjRmYjhi/OTY5MDgwZmJjY2Y5/L2IyZTZkOThmMjA4/OTU5ZTItNzgvczU0/MHg4MTAvZjNkZjRj/MmVmZjY2Nzg3YzBj/NzlmMjU1NDE4ZDFm/N2ZhMWYxZmM1ZS5n/aWZ2" width="350" alt="Victini">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=00FF00&background=F29FFF00&width=500&height=30&lines=Hi!+Welcome+to+my+profile+%E2%AD%90;I'm+always+trying+to+learn+new+stuff;Technology+and+Art+are+my+passions%F0%9F%8E%A8" alt="Typing SVG"></a><br><br>
-💡 Blending technology and cultural imersion to create awesome digital experiences<br><br>
-🎓 Navigating off the beaten path to achieve my holy grail<br><br>
-🚀 Goal: Master mobile and web development to become a top-tier engineer<br><br>
-<br clear="both">
+<table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Mona+sans&weight=600&size=18&duration=3000&pause=1000&color=00FF00&background=F29FFF00&width=500&height=30&lines=Hi!+Welcome+to+my+profile+%E2%AD%90;I'm+always+trying+to+learn+new+stuff;Technology+and+Art+are+my+passions%F0%9F%8E%A8" alt="Typing SVG" />
+      </a>
+      <br><br>
+      <p>💡 Blending technology and cultural immersion to create awesome digital experiences</p>
+      <p>🎓 Navigating off the beaten path to achieve my holy grail</p>
+      <p>🚀 Goal: Master mobile and web development to become a top-tier engineer</p>
+    </td>
+    <td width="45%" align="center" valign="center">
+      <img src="https://imgs.search.brave.com/Wxyyt-FBAMRkOprveNoox4uqcEah4jkHNtu7mPzyoRs/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly82NC5t/ZWRpYS50dW1ibHIu/Y29tL2JhMzIwYjZi/YjBjOTdhZjRmYjhi/OTY5MDgwZmJjY2Y5/L2IyZTZkOThmMjA4/OTU5ZTItNzgvczU0/MHg4MTAvZjNkZjRj/MmVmZjY2Nzg3YzBj/NzlmMjU1NDE4ZDFm/N2ZhMWYxZmM1ZS5n/aWZ2" width="450" alt="Victini">
+    </td>
+  </tr>
+</table>
 
----
+<br>
+
 
 ### 🛠️ Tech Stack
 
