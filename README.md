@@ -4,7 +4,7 @@
 🎓 **IT Technician** - [Fundação Matias Machline](https://www.fundacaomatiasmachline.org.br) (2022-2024)
 
 ---
-<summary>
+
 ### 👤 About Me
 
 <div align="center">
@@ -26,7 +26,7 @@
 </div>
 
 <br clear="both">
-</summary>
+
 ---
 
 ### 🛠️ Tech Stack
