@@ -21,7 +21,7 @@
   <p align="left">
     💡 Blending technology and cultural immersion to create awesome digital experiences <br><br>
     🎓 Navigating off the beaten path to achieve my holy grail <br><br>
-    🚀 Goal: Master mobile and web development to become a top-tier engineer
+    🚀 Goal: Become a top-tier problem solver
   </p>
 </div>
 
